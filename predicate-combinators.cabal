@@ -1,0 +1,18 @@
+name:           predicate-combinators
+version:        0.0
+synopsis:       Tools for working with predicates.
+homepage:       http://github.com/sykora/predicate-combinators/
+
+author:         P.C. Shyamshankar <sykora@lucentbeing.com>
+maintainer:     P.C. Shyamshankar <sykora@lucentbeing.com>
+copyright:      © P.C. Shyamshankar
+
+license:        GPL-3
+license-file:   LICENSE
+
+category:       Combinators
+build-type:     Simple
+cabal-version:  >= 1.12
+
+library
+    default-language: Haskell2010

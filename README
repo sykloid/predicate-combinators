@@ -1,0 +1,4 @@
+predicate-combinators
+=====================
+
+A simple set of combinators for working abstractly with boolean predicates.
